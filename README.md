@@ -14,6 +14,6 @@ A web application for fitness challenges and community interaction. Developed fo
 ## 🛠️ Tech Stack  
 | Module       | Technologies         |  
 |--------------|----------------------|  
-| **Backend**  | Java, Spring Boot    |  
+| **Backend**  | Java, Spring         |  
 | **Database** | H2                   |  
 | **Frontend** | JavaScript, Appsmith |  
