@@ -1,13 +1,13 @@
-package com.MIE350.FitnessCommunityHub;
+package com.MIE350.FitnessRoutineHub;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class FitnessCommunityHubApplication {
+public class FitnessRoutineHubApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(FitnessCommunityHubApplication.class, args);
+		SpringApplication.run(FitnessRoutineHubApplication.class, args);
 	}
 
 }

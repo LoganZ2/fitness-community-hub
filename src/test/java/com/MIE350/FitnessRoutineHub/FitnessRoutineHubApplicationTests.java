@@ -1,10 +1,10 @@
-package com.MIE350.FitnessCommunityHub;
+package com.MIE350.FitnessRoutineHub;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class FitnessCommunityHubApplicationTests {
+class FitnessRoutineHubApplicationTests {
 
 	@Test
 	void contextLoads() {
